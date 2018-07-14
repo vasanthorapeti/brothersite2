@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Welcome to Brother's sixth page
+            Wow. This is great. We made it
         </div>
     </form>
 </body>
